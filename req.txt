@@ -2,3 +2,4 @@ groq
 gradio
 scipy>=1.11.1
 python-dotenv
+swarmauri[full]==0.4.1
